@@ -4,8 +4,8 @@ Développeuse en 2ᵉ année de BTS SIO SLAM, passionnée par le développement 
 Je recherche une alternance en Île-de-France (rythme 3j entreprise / 2j école).
 
 ### 🛠 Compétences & Technologies
-- **Langages :** PHP, JavaScript, Python, HTML5/CSS3, SQL, php admin, jQuery
-- **Outils & APIs :** Git/GitHub, APIs Google & Anthropic (Claude), MySQL, Bootstrap, php admin, jQuery, WordPress, VS Code, Docker
+- **Langages :** PHP, JavaScript, Python, HTML5/CSS3, SQL
+- **Outils & APIs :** Git/GitHub, APIs Google & Anthropic (Claude), MySQL, Bootstrap, php admin, jQuery, WordPress, VS Code, Docker, AMPPS
 
 ### 🚀 Projets principaux
 - **Générateur de CV** : Application web dynamique (PHP / MySQL / Bootstrap) avec gestion de sessions sécurisées.
